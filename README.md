@@ -1,4 +1,3 @@
-#Image Editor QT
-This is an image editor made with QT & C++.
+Image Editor QT
 -------------------------------------------
-WIP
+WIP: This is an image editor made with QT & C++.
