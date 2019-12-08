@@ -1,0 +1,4 @@
+/snap/clion/98/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/thibaultpoels/Documents/UA/Programmeren/Taken/Cplusplus/HT4/ImageEditor_base
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/thibaultpoels/Documents/UA/Programmeren/Taken/Cplusplus/HT4/ImageEditor_base/cmake-build-debug
